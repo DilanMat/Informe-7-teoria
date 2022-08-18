@@ -1,6 +1,6 @@
 # Informe-7-teoria
 
-####![image](https://user-images.githubusercontent.com/104999420/185276898-3929b975-e074-45bc-b907-2202b29e8aa9.png)
+![image](https://user-images.githubusercontent.com/104999420/185276898-3929b975-e074-45bc-b907-2202b29e8aa9.png)
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS
 ESPE
@@ -81,8 +81,3 @@ Nota; En la siguiente imagen se muestra un resumen sobre las características de
 
 7.	BLIBIOGRAFÍA
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
-
-
-
-\
-
